@@ -1,0 +1,87 @@
+{
+  "image_id": "g4+pvOcb2Rc/l9RBmTstPw==",
+  "request_id": "1538338319,82add09e-21b9-4251-91c0-5c6df0fe71eb",
+  "time_used": 583,
+  "skeletons": [
+    {
+      "body_rectangle": {
+        "width": 119,
+        "top": 118,
+        "left": 253,
+        "height": 347
+      },
+      "landmark": {
+        "right_hand": {
+          "y": 163,
+          "x": 17,
+          "score": 0.51721567
+        },
+        "head": {
+          "y": 4,
+          "x": 54,
+          "score": 0.49851495
+        },
+        "neck": {
+          "y": 61,
+          "x": 54,
+          "score": 0.5147136
+        },
+        "left_shoulder": {
+          "y": 61,
+          "x": 84,
+          "score": 0.53016675
+        },
+        "right_buttocks": {
+          "y": 177,
+          "x": 43,
+          "score": 0.5801215
+        },
+        "left_knee": {
+          "y": 242,
+          "x": 84,
+          "score": 0.56246287
+        },
+        "right_elbow": {
+          "y": 119,
+          "x": 20,
+          "score": 0.5382019
+        },
+        "right_shoulder": {
+          "y": 69,
+          "x": 28,
+          "score": 0.4821485
+        },
+        "left_buttocks": {
+          "y": 177,
+          "x": 73,
+          "score": 0.6102619
+        },
+        "left_foot": {
+          "y": 300,
+          "x": 84,
+          "score": 0.51850504
+        },
+        "left_elbow": {
+          "y": 112,
+          "x": 99,
+          "score": 0.5968423
+        },
+        "left_hand": {
+          "y": 163,
+          "x": 117,
+          "score": 0.62500495
+        },
+        "right_knee": {
+          "y": 242,
+          "x": 43,
+          "score": 0.5229879
+        },
+        "right_foot": {
+          "y": 314,
+          "x": 54,
+          "score": 0.507054
+        }
+      }
+    }
+  ]
+}

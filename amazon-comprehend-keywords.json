@@ -1,0 +1,76 @@
+{
+  "KeyPhrases": [
+    {
+      "Score": 0.8604927062988281,
+      "Text": "Amazon.com",
+      "BeginOffset": 0,
+      "EndOffset": 10
+    },
+    {
+      "Score": 0.9506077766418457,
+      "Text": "Seattle, WA",
+      "BeginOffset": 31,
+      "EndOffset": 42
+    },
+    {
+      "Score": 0.9101490378379822,
+      "Text": "July 5th, 1994",
+      "BeginOffset": 59,
+      "EndOffset": 73
+    },
+    {
+      "Score": 0.999458372592926,
+      "Text": "Jeff Bezos",
+      "BeginOffset": 77,
+      "EndOffset": 87
+    },
+    {
+      "Score": 0.999697208404541,
+      "Text": "customers",
+      "BeginOffset": 98,
+      "EndOffset": 107
+    },
+    {
+      "Score": 0.9959203004837036,
+      "Text": "books",
+      "BeginOffset": 131,
+      "EndOffset": 136
+    },
+    {
+      "Score": 0.9887219667434692,
+      "Text": "blenders",
+      "BeginOffset": 140,
+      "EndOffset": 148
+    },
+    {
+      "Score": 0.9961830973625183,
+      "Text": "Seattle",
+      "BeginOffset": 150,
+      "EndOffset": 157
+    },
+    {
+      "Score": 0.89456707239151,
+      "Text": "Portland and south",
+      "BeginOffset": 170,
+      "EndOffset": 188
+    },
+    {
+      "Score": 0.9522891044616699,
+      "Text": "Vancouver, BC",
+      "BeginOffset": 192,
+      "EndOffset": 205
+    },
+    {
+      "Score": 0.965003490447998,
+      "Text": "Other notable Seattle - based companies",
+      "BeginOffset": 207,
+      "EndOffset": 246
+    },
+    {
+      "Score": 0.9597576260566711,
+      "Text": "Starbucks and Boeing",
+      "BeginOffset": 251,
+      "EndOffset": 271
+    }
+  ]
+}

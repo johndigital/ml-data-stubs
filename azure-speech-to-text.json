@@ -1,0 +1,21 @@
+{
+  "RecognitionStatus": "Success",
+  "Offset": "1236645672289",
+  "Duration": "1236645672289",
+  "NBest": [
+    {
+      "Confidence": "0.87",
+      "Lexical": "remind me to buy five pencils",
+      "ITN": "remind me to buy 5 pencils",
+      "MaskedITN": "remind me to buy 5 pencils",
+      "Display": "Remind me to buy 5 pencils."
+    },
+    {
+      "Confidence": "0.54",
+      "Lexical": "rewind me to buy five pencils",
+      "ITN": "rewind me to buy 5 pencils",
+      "MaskedITN": "rewind me to buy 5 pencils",
+      "Display": "Rewind me to buy 5 pencils."
+    }
+  ]
+}
